@@ -231,4 +231,3 @@ java -Dspring.ai.mcp.client.sse.connections.weather-server.url=http://localhost:
 * [MCP Client Boot Starter](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-client-boot-starter-docs.html)
 * [Model Context Protocol Specification](https://modelcontextprotocol.github.io/specification/)
 * [Spring Boot Auto-configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.developing-auto-configuration)
-"# mcp-server2" 
